@@ -1,0 +1,27 @@
+# ODS Query Configuration
+sql_path: ""
+hist_schema: "hist"
+
+# Staging Configuration
+staging_schema: "staging"
+
+# JDBC Configuration
+jdbc_type: "SQLSERVER"
+jdbc_host: "<ip>"
+jdbc_port: "1433"
+jdbc_database: "<db_name>"
+jdbc_schema: ""
+jdbc_sid: ""
+jdbc_instance: ""
+jdbc_user: "username"
+jdbc_password: "password"
+jdbc_write_mode: "append"
+jdbc_domain: ""
+
+# MongoDB Configuration
+mongo_username: "mongo_username"
+mongo_password: "mongo_password"
+mongo_url: "mongourl1.url.id:27017,mongourl2.url.id:27017,mongourl3.url.id:27017"
+mongo_replicaset: ""
+schema_table_mongo_path: "schema/"
+
