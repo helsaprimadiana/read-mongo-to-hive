@@ -1,0 +1,17 @@
+{
+	"_id" : "5cada0cc80bd046b2226391b",
+	"cardType" : "EI",
+	"designCode" : "1001",
+	"designName" : "NPG",
+	"designTitle" : "GPN",
+	"isAvailable" : true,
+	"filePath" : "images/designs/6a211db3-88b1-49bf-b230-a449d568b83d.png",
+	"createdAt" : "2020-04-03T12:00:00.000+07:00",
+	"updatedAt" : "2020-08-31T10:54:47.000+07:00",
+	"fee" : {
+		"issuanceFee" : 50000,
+		"replacementFee" : 55100
+	},
+	"replacementFeeCounter" : 0,
+	"numberOfArrangement" : 1
+}
